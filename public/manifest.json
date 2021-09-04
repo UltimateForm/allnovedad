@@ -1,6 +1,7 @@
 {
 	"name": "Tagarelas UI",
 	"short_name": "Tag",
+	"start_url": "https://allnovedad.vercel.app/",
 	"icons": [{
 			"src": "/android-chrome-192x192.png",
 			"sizes": "192x192",
