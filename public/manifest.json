@@ -1,6 +1,6 @@
 {
-	"name": "Tagarelas UI",
-	"short_name": "Tag",
+	"name": "All Novedad",
+	"short_name": "aNov",
 	"start_url": "https://allnovedad.vercel.app/",
 	"icons": [{
 			"src": "/android-chrome-192x192.png",
