@@ -27,6 +27,7 @@ export function NewsView() {
 			<QueryForm
 				source="bbc"
 				keywords={keywords}
+				loading={loading}
 				handleSubmit={(values) => setKeywords(values.keywords)}
 			/>
 			<NewsGridContainer />
